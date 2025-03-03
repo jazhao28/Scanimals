@@ -3,7 +3,7 @@
 The Scanimals app is an interactive and education mobile application designed for children. Using your device's camera, the app allows users to scan animals and provide them with information about the animal.
 
 # Motivation
-**The Problem**
+**The Problem** <br/>
 Currently, there are similar apps out there on the App Store or Google Play Store that performs the same functionality as our app. However, there were multiple glaring issues within the majority of the sample apps we tested. Firstly, many of these apps have implemented a paywall, limiting access users to the full functionality of their app. This occurs in limiting the usage of the app to the user in the form of limited scans per day or limited time usage (i.e. a week) before prompting users to pay for a subscription for continued usage. 
 
 In regards to the details that are displayed upon a scan, we also found an issue where the text was far too dense. The density of the descriptions are an issue since the text can be far too advanced for our target demographic to comprehend. 

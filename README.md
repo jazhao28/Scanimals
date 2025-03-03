@@ -1,6 +1,6 @@
 # Scanimals
 **About the Scanimals** <br/>
-The Scanimals app is an interactive and education mobile application designed for children. Using your device's camera, the app allows users to scan animals and provide them with information about the animal.
+The Scanimals app is an interactive and educational mobile application designed for children. Using your device's camera, the app allows users to scan animals and provide them with information about the animal.
 
 # Motivation
 **The Problem** <br/>

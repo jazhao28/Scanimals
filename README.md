@@ -15,7 +15,7 @@ Scanimals aims to foster learning in children about animals around the world and
 
 # Technical Stack
 **Platforms** <br/>
-The Scanimals App will be available for free to download on the Apple App Store for iOS and iPadOS devices with no limited access to any of the app's features.
+The Scanimals App will be available for free to download on the Apple App Store for iOS and iPadOS devices with full free access to all of the app's features.
 
 **Frameworks and Technologies** <br/>
 Creating Scanimals will require the following frameworks/technologies:

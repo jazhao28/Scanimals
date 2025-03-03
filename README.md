@@ -30,4 +30,5 @@ Creating Scanimals will require the following frameworks/technologies:
 | DistillBart   | A lightweight LLM used for text summaries |
 | PyTorch   | For fine-tuning DistilBart to generate kid-friendly summaries before passing it on to CoreML |
 # Figma Design Goes Here
-
+<img width="546" alt="Screenshot 2025-03-03 at 2 51 25 AM" src="https://github.com/user-attachments/assets/ed4d2b89-a1aa-4554-94c0-43c027c47c03" /> <br/>
+[Figma Prototype Link](https://www.figma.com/proto/OGS4zwWZQ2sKZuKfFR3UzZ/Scanimal?node-id=1-3&p=f&t=Dhormxor4JGluUcQ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3)

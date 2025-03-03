@@ -1,1 +1,2 @@
 # Scanimals
+** About The Scanimals**

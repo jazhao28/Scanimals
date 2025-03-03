@@ -13,6 +13,8 @@ Lastly, other apps have no filtering system for animals or a way to create perso
 # The Solution
 The goal of the Scanimal aims to foster learning in children about animals around the world and their environment through a quickly accessible and easy-to-use app on their device. Through this app users will be able to expand their knowledge, possibly nurture their love for animals and develop a deeper understadning of the planet's biodiversity.
 
-
-# Figma Design Goes Here**
+# Technical Stack
+**PlatForm** <br/>
+The Scanimals App will be available for free to download on the Apple App Store with no limited access to any of the app's features.
+# Figma Design Goes Here
 
